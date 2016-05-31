@@ -1,11 +1,13 @@
 {
   "name": "ractive-animatecss",
   "version": "0.1.0",
-  "main": "ractive-animatecss.js",
+  "main": "dist/ractive-animatecss.js",
+  "files": ["dist"],
   "keywords": [
     "ractive",
     "animate.css"
   ],
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git@github.com:bestguy/ractive-animatecss.git"
