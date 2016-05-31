@@ -14,6 +14,9 @@ This library lets you use any of the animate.css transitions as an Ractive intro
 
 Full list of transitions are [here](https://daneden.github.io/animate.css/).
 
+
+**Based on a gist from [cfenzo](https://gist.github.com/cfenzo/63576935f3b549280f1b)**
+
 ----
 
 ## Usage
